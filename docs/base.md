@@ -3,7 +3,7 @@ Base Computer Emuration
 
 ## Command
 |Name|Description|
-|:--|:--|
+|:---|:---|
 |CMDS|Display installed commands|
 
 ## API
